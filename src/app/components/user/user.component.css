@@ -1,0 +1,17 @@
+.example-card {
+    
+    position: relative;
+  }
+  
+  .example-header-image {
+    background-image: url('https://eu.ui-avatars.com/api/?rounded=true');
+    background-size: cover;
+    border: 2px solid rgb(145, 3, 145);
+  }
+ 
+.example-button-container{
+    right: 0;
+}
+.spacer{
+    flex:1 0 0;
+}
